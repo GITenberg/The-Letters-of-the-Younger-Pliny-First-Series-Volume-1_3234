@@ -1,0 +1,47 @@
+_repo: The-Letters-of-the-Younger-Pliny-First-Series-Volume-1_3234
+contributor:
+  creator:
+    editor:
+      agent_name: Keil, Heinrich
+      alias: Keilius, Henricus
+      birthdate: 1822
+      deathdate: 1894
+      gutenberg_agent_id: '1140'
+      url: http://www.gutenberg.org/2009/agents/1140
+  translator:
+    agent_name: Firth, John B. (John Benjamin)
+    aliases:
+    - Firth, John Benjamin
+    - Firth, J. B. (John Benjamin)
+    birthdate: 1868
+    deathdate: 1943
+    gutenberg_agent_id: '1141'
+    url: http://www.gutenberg.org/2009/agents/1141
+creator:
+  author:
+    agent_name: Pliny, the Younger
+    aliases:
+    - Plinius, Caius, Secundus
+    - Plinius Caecilius Secundus, Caius
+    birthdate: 61
+    gutenberg_agent_id: '1036'
+    url: http://www.gutenberg.org/2009/agents/1036
+    wikipedia: http://en.wikipedia.org/wiki/Pliny_the_Younger
+description: 'Alternate name: Pliny, the Younger. Epistulae ad Traianum. English'
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin letters -- Translations into English'
+- !lcsh 'Lawyers -- Rome -- Correspondence'
+- !lcc 'PA'
+- !lcsh 'Authors, Latin -- Rome -- Correspondence'
+- !lcsh 'Pliny, the Younger -- Correspondence'
+title: The Letters of the Younger Pliny, First Series — Volume 1
+url: http://www.gutenberg.org/ebooks/3234
