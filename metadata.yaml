@@ -1,5 +1,5 @@
 _repo: The-Letters-of-the-Younger-Pliny-First-Series-Volume-1_3234
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -49,5 +49,6 @@ subjects:
 - !lcc 'PA'
 - !lcsh 'Authors, Latin -- Rome -- Correspondence'
 - !lcsh 'Pliny, the Younger -- Correspondence'
+- GITenberg
 title: The Letters of the Younger Pliny, First Series — Volume 1
 url: http://www.gutenberg.org/ebooks/3234
